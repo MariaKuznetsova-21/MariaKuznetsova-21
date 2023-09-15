@@ -3,7 +3,7 @@
 <!--
 **MariaKuznetsova-21/MariaKuznetsova-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Maria. I am currently an IT Advisor and a self-taught developer. I love building apps with Java and expand my expertise in software architecture, coding, and IT tools.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
